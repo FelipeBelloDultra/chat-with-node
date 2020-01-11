@@ -11,7 +11,7 @@ html, body {
 
 .header {
     height: 65px;
-    background-color: #0063d4;
+    background-color: #d49400;
     right: 0;
     display: flex;
     justify-content: center;
@@ -46,7 +46,7 @@ button {
     width: 600px;
     height: 50px;
     font-size: 14px;
-    background: #0063d4;
+    background: #d49400;
     text-align: center;
     line-height: 50px;
     font-weight: normal;
